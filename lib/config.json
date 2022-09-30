@@ -1,0 +1,20 @@
+{
+  "thumb": "https://telegra.ph/file/d611da0cc9e1436232262.jpg",
+  "namebot": "LuffyBot",
+  "botNumber": "0@s.whatsapp.net",
+  "owner": ["6285607831410@s.whatsapp.net"],
+  "instagram": "https://instagram.com",
+  "author": "Rull",
+  "session": "session",
+  "email": "idk@gmail.com",
+  "self": false,
+  "limit": { "limitUser": 10, "gameLimitUser": 10, "gameLimitPremium": 50 },
+  "packInfo":{
+    "packname": "",
+    "author": "One Piece!\n\nLuffyBit By Rull"
+  },
+  "ignore": {
+		"directory": ["umum"]
+	},
+	"timezone": "Asia/Jakarta"
+}
